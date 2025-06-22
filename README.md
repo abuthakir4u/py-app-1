@@ -1,2 +1,2 @@
 # Python Sample Program Repository
-Python examples which is learned from various tutorials
+Python examples which I learned from various tutorials
